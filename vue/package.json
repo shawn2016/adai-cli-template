@@ -1,0 +1,18 @@
+{
+  "name": "vue",
+  "description": "A Vue.js project",
+  "version": "1.0.0",
+  "author": "vvpvvp <alias8516@sina.com.cn>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "vue": "^2.5.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "devDependencies": {}
+}
