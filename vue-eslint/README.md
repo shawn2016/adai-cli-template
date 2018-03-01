@@ -1,4 +1,4 @@
-# vue
+# vue-eslint
 
 > A Vue.js project
 
