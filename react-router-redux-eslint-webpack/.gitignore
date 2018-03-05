@@ -1,9 +1,9 @@
 # mac .DS_Store
 .DS_Store
-
+.cache
 # Webstorm
 .idea
-
+dist
 # Logs
 logs
 *.log

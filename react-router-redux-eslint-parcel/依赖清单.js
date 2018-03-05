@@ -8,7 +8,7 @@
  * 项目配置文件 说明
  * **/
 const packageJson = {
-    "name": "react-router-redux-eslint-webpack",                    // 项目名字
+    "name": "react-router-redux-eslint-parcel",                    // 项目名字
     "version": "1.0.0",                     // 项目版本
     "description": "react脚手架,最新技术",  // 项目描述
     "main": "index.js",                     // 项目入口文件（其实没用，因为配置了server.js）

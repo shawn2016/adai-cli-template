@@ -8,7 +8,7 @@
  * 项目配置文件 说明
  * **/
 const packageJson = {
-  name: "react_luo", // 项目名字
+  name: "react-router-redux-eslint-webpack", // 项目名字
   version: "1.0.0", // 项目版本
   description: "react脚手架,最新技术", // 项目描述
   main: "index.js", // 项目入口文件（其实没用，因为配置了server.js）
@@ -23,13 +23,13 @@ const packageJson = {
     coveralls:
       "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | ./node_modules/.bin/coveralls" // 脚本 - 用于第三方代码测试自动调用（不用管）
   },
-  author: "luo", // 项目作者
+  author: "shawn", // 项目作者
   license: "ISC", // 项目开源协议
   private: true, // 项目在npm上是否私有
   repository: {
     // 项目的源码存放仓库配置
     type: "git", // 用git存的
-    url: "git+https://github.com/javaLuo/react-luo.git" // 仓库地址
+    url: "" // 仓库地址
   },
   dependencies: {
     // 项目依赖包

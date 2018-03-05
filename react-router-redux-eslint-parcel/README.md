@@ -1,4 +1,4 @@
-# react-router-redux-eslint-webpack
+# react-router-redux-eslint-parcel
 ## what is this?
 react automaticaly<br/>
 这是一个React脚手架，没有使用create-react-app<br/>
@@ -48,7 +48,7 @@ yarn run prettier	# 自动格式化src、mock目录下的所有.js/.css/.scss/.l
 ## 分支
 
 * 主分支：Parcel打包工具，自带HMR，react-loadable代码分割
-* react-router-redux-eslint-webpack-webpack分支：webpack打包工具，bundle-loader代码分割
+* react-router-redux-eslint-parcel-webpack分支：webpack打包工具，bundle-loader代码分割
 
 ## 特性
 
@@ -66,7 +66,7 @@ yarn run prettier	# 自动格式化src、mock目录下的所有.js/.css/.scss/.l
 ## 更新日志 Update log
 * 2018-02-24
 	<br/>1.使用了Parcel对项目进行打包，主分支移除了webpack及相关插件
-	<br/>2.建立了react-router-redux-eslint-webpack-webpack分支，沿用webpack
+	<br/>2.建立了react-router-redux-eslint-parcel-webpack分支，沿用webpack
 	<br/>3.主分支代码分割有所变化，参见src/a_container/root/index.js
 * 2018-02-23
     <br/>1.增加了prettier自动代码格式化，npm run prettier 将自动按照prettier风格对{src,mock}/**/*.{js,css,scss,less}的文件进行格式化
